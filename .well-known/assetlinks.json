@@ -6,4 +6,15 @@
     "sha256_cert_fingerprints":
     ["B2:7C:15:28:9C:2B:70:3C:80:9B:D5:5B:83:19:F9:B5:B1:4F:70:30:05:A5:2F:76:4B:20:EE:4C:0B:28:8D:D4"]
   }
+},
+
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.google.android.instantapps.samples.hello",
+    "sha256_cert_fingerprints":
+    ["B2:7C:15:28:9C:2B:70:3C:80:9B:D5:5B:83:19:F9:B5:B1:4F:70:30:05:A5:2F:76:4B:20:EE:4C:0B:28:8D:D4"]
+  }
 }]
+]
