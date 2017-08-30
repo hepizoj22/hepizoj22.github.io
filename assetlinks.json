@@ -1,0 +1,28 @@
+[  
+   {  
+      "relation":[  
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{  
+         "namespace":"android_app",
+         "package_name":"com.razerzone.dealsapk",
+         "sha256_cert_fingerprints":[  
+            "B2:7C:15:28:9C:2B:70:3C:80:9B:D5:5B:83:19:F9:B5:B1:4F:70:30:05:A5:2F:76:4B:20:EE:4C:0B:28:8D:D4",
+            "25:98:DD:C6:AB:48:1F:BE:01:7D:5B:C2:FC:51:BC:36:20:2A:CC:FA:86:EA:7F:90:7D:27:6C:42:4A:B6:9B:DD"
+         ]
+      }
+   },
+   {  
+      "relation":[  
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{  
+         "namespace":"android_app",
+         "package_name":"com.google.android.instantapps.samples.hello",
+         "sha256_cert_fingerprints":[  
+            "B2:7C:15:28:9C:2B:70:3C:80:9B:D5:5B:83:19:F9:B5:B1:4F:70:30:05:A5:2F:76:4B:20:EE:4C:0B:28:8D:D4",
+            "25:98:DD:C6:AB:48:1F:BE:01:7D:5B:C2:FC:51:BC:36:20:2A:CC:FA:86:EA:7F:90:7D:27:6C:42:4A:B6:9B:DD"
+         ]
+      }
+   }
+]
